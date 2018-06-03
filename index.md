@@ -1,7 +1,39 @@
 
-## Computer Vision
+# Computer Vision
+## Medical Iamge process
+'''
 
-```markdown
 
 
-```
+
+'''
+## Machine Learning
+'''
+
+
+
+
+'''
+## Deep Learning
+'''
+
+
+
+
+'''
+## ML framework
+'''
+
+
+
+
+'''
+
+
+## Linux
+'''
+
+
+
+
+'''
